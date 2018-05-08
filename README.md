@@ -1,4 +1,5 @@
 ## Know_Your_Mentee
+![Image of Prakhar Singh](https://user-images.githubusercontent.com/38505893/39776024-3984e796-531d-11e8-994d-a3730912f13a.JPG)
 - Hey , this is **Prakhar Singh**(1st year Btech graduate) from *Electrical & Electronics Engineering* branch of [National Institute of Technology , Tiruchhirrapalli](https://www.nitt.edu).
 - I belong to Agra (Uttar Pradesh).
 - I passed my class 12th from **Kendriya Vidyalaya No.2 , Agra Cantt** , and class 10th from **St. Pauls Church College** in the year 2016 and 2014 respectively.
