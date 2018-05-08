@@ -11,3 +11,4 @@ for loop i = 1 to n-1
                
    if smallest ≠ i  
         Exchange A[ j ] with A[ smallest ]
+    //Singh 107117074
